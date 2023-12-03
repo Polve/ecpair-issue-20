@@ -1,0 +1,2 @@
+    "@bitcoinerlab/secp256k1": "^1.0.5",
+
